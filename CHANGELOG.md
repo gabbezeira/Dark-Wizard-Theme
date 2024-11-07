@@ -10,3 +10,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Changed
 - Updated the terminal background color to match the sidebar color for a more harmonious appearance.
+
+---
+
+## [0.0.5] - 2024-11-07
+
+### Changed
+- Updated the painel background color to match the sidebar color for a more harmonious appearance.

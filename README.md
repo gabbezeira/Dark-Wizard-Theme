@@ -89,10 +89,10 @@ For the best visual experience, we suggest adding the following configurations t
 
 Use the [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/) font, specifically designed for coding, with ligatures and high readability.
 
-## 🔥 Extra Tips
+## 🔥 Extra Tips 
 
 - 🖥️ **Full-Screen Mode**: Maximize the theme’s impact by using VS Code in full-screen mode.
-- 🧩 **Icon Customization**: For best integration with the theme, enable `"workbench.iconTheme": "symbols"` in your `settings.json`.
+- 🧩 **Icon Customization**: [Install Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols) for best integration with the theme and enable `"workbench.iconTheme": "symbols"` in your `settings.json`.
 - 🚫 **Hide the Minimap**: Disable the minimap for a cleaner interface with `"editor.minimap.enabled": false`.
 
 ---
@@ -106,7 +106,7 @@ Use the [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/) font, specifi
 
 ## License
 
-[MIT License](./LICENSE.txt)
+[MIT License](./LICENSE)
 
 ---
 

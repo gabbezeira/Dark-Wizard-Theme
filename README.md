@@ -33,12 +33,12 @@ DarkWizard Theme is a sleek, modern Visual Studio Code theme designed to provide
 
 ## Screenshots
 
-p align="center">
+<p align="center">
   <strong>DarkWizard Theme 🌌 Preview</strong>
 </p>
 
 <p align="center">
-  <img alt="Miraculous Theme screnshoot for Visual Studio Code" src="https://github.com/gabbezeira/Dark-Wizard-Theme/blob/main/assets/preview.png">
+  <img alt="Dark Wizard screnshoot for Visual Studio Code" src="https://github.com/gabbezeira/Dark-Wizard-Theme/blob/main/assets/preview.png">
 </p>
 
 <br>
@@ -48,7 +48,7 @@ p align="center">
 </p>
 
 <p align="center">
-  <img alt="Miraculous Terminal screnshoot for Visual Studio Code" src="https://github.com/gabbezeira/Dark-Wizard-Theme/blob/main/assets/terminal-preview.png">
+  <img alt="Dark Wizard Terminal screnshoot for Visual Studio Code" src="https://github.com/gabbezeira/Dark-Wizard-Theme/blob/main/assets/terminal-preview.png">
 </p>
 
 <br>
@@ -58,7 +58,7 @@ p align="center">
 </p>
 
 <p align="center">
-  <img alt="Miraculous Json screnshoot for Visual Studio Code" src="https://github.com/gabbezeira/Dark-Wizard-Theme/blob/main/assets/json-preview.png">
+  <img alt="Dark Wizard Json screnshoot for Visual Studio Code" src="https://github.com/gabbezeira/Dark-Wizard-Theme/blob/main/assets/json-preview.png">
 </p>
 
 ## ⚙️ Recommended Settings

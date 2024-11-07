@@ -23,6 +23,7 @@ DarkWizard Theme is a sleek, modern Visual Studio Code theme designed to provide
   <a href="#screenshots">Screenshots</a> •
   <a href="#team">Team</a> •
   <a href="#license">License</a>
+  <a href="#changelog">ChangeLog</a>
 </p>
 
 ## Install
@@ -107,6 +108,12 @@ Use the [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/) font, specifi
 ## License
 
 [MIT License](./LICENSE)
+
+---
+
+## Changelog
+
+[ChangeLog.md](./CHANGELOG.md)
 
 ---
 

@@ -4,6 +4,9 @@ All notable changes to the "DarkWizard" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+---
 
-- Initial release
+## [0.0.4] - 2024-11-07
+
+### Changed
+- Updated the terminal background color to match the sidebar color for a more harmonious appearance.

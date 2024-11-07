@@ -2,8 +2,8 @@
 	"name": "darkwizard",
 	"displayName": "Dark Wizard Theme",
 	"description": "Minimalist dark color theme for VS Code with green and purple tones",
-	"publisher": "Gabbezeira",
-	"version": "0.0.1",
+	"publisher": "gabbezeira",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.95.0"
 	},

@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/gabbezeira/Dark-Wizard-Theme/blob/main/assets/icon.png" alt="Dark Wizard Theme Logo" width="140">
+  <img src="https://raw.githubusercontent.com/gabbezeira/Dark-Wizard-Theme/refs/heads/main/assets/icon.png" alt="Dark Wizard Theme Logo" width="140">
   <br>
     🌌 DarkWizard Theme <a href="https://code.visualstudio.com/" style="color: #845ef6 !important">Visual Studio Code</a>
   <br>
@@ -38,7 +38,7 @@ DarkWizard Theme is a sleek, modern Visual Studio Code theme designed to provide
 </p>
 
 <p align="center">
-  <img alt="Dark Wizard screnshoot for Visual Studio Code" src="https://github.com/gabbezeira/Dark-Wizard-Theme/blob/main/assets/preview.png">
+  <img alt="Dark Wizard screnshoot for Visual Studio Code" src="https://raw.githubusercontent.com/gabbezeira/Dark-Wizard-Theme/refs/heads/main/assets/preview.png">
 </p>
 
 <br>
@@ -48,7 +48,7 @@ DarkWizard Theme is a sleek, modern Visual Studio Code theme designed to provide
 </p>
 
 <p align="center">
-  <img alt="Dark Wizard Terminal screnshoot for Visual Studio Code" src="https://github.com/gabbezeira/Dark-Wizard-Theme/blob/main/assets/terminal-preview.png">
+  <img alt="Dark Wizard Terminal screnshoot for Visual Studio Code" src="https://raw.githubusercontent.com/gabbezeira/Dark-Wizard-Theme/refs/heads/main/assets/terminal-preview.png">
 </p>
 
 <br>
@@ -58,7 +58,7 @@ DarkWizard Theme is a sleek, modern Visual Studio Code theme designed to provide
 </p>
 
 <p align="center">
-  <img alt="Dark Wizard Json screnshoot for Visual Studio Code" src="https://github.com/gabbezeira/Dark-Wizard-Theme/blob/main/assets/json-preview.png">
+  <img alt="Dark Wizard Json screnshoot for Visual Studio Code" src="https://raw.githubusercontent.com/gabbezeira/Dark-Wizard-Theme/refs/heads/main/assets/json-preview.png">
 </p>
 
 ## ⚙️ Recommended Settings

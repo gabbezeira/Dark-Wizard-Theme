@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/gabbezeira/Dark-Wizard-Theme/blob/main/assets/icon.png" alt="Miraculous Logo" width="140">
+  <img src="https://github.com/gabbezeira/Dark-Wizard-Theme/blob/main/assets/icon.png" alt="Dark Wizard Theme Logo" width="140">
   <br>
     🌌 DarkWizard Theme <a href="https://code.visualstudio.com/" style="color: #845ef6 !important">Visual Studio Code</a>
   <br>
